@@ -1,0 +1,8 @@
+{
+  "name": "PayMitra - Super Fintech App & Admin Portal",
+  "description": "All-in-one Indian fintech platform with Android/iOS preview, AEPS, BBPS bill payments, mobile recharge, financial products, AI customer support, and complete Admin management with custom extra links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
